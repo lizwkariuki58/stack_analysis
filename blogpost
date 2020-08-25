@@ -1,0 +1,12 @@
+What can we learn from the results of the Stack Overflow Developer Survey (2020)?
+
+For the past decade, Stack Overflow has been carrying out an annual extensive and comprehensive survey of developers worldwide. Learn more about the survey here and access the raw data here: https://insights.stackoverflow.com/survey. In this post, I will be looking at what the 2020 survey can teach us about the state of software development in Kenya and what the limitations of the survey are. 
+
+Of the 64461 respondents who took part in the survey, 2709 are African of which 271 are Kenyan. Most of the respondents were Western and male. The survey is not representative of developers since they were recruited from Stack Oveflow channels which are frequented by western male developers. 
+
+The average age at which the Kenyan developer wrote their first line of code is 19 years with the distribution being as shown below. Clearly, most of them started coding during their tertiary education (ages 19 to 23). Half of the Kenyan developers took Computer science, computer engineering, or software engineering  as their major. 
+
+One of the new questions this year was : You search for a coding solution online and the first result link is purple because you already visited it. How do you feel? It seems most people's reaction is similar to mine: 'Hello old friend, it's good to see you again'.
+
+That's all for now but you can access the results of the developer survey here to run your own analysis on other interesting aspects such as salary and the languages that Kenyan developers use. Stack overflow also publishes the insights they gleaned from the survey here: https://insights.stackoverflow.com/survey/2020.
+
